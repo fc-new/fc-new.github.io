@@ -86,7 +86,13 @@ window.I18N = {
     "copyFailed": "请手动复制邮箱",
     "undergraduateSchool": "西安电子科技大学",
     "undergraduateDegree": "大数据管理与应用 · 本科",
-    "undergraduateDate": "2023.09 — 至今"
+    "undergraduateDate": "2023.09 — 至今",
+    "navLife": "生活",
+    "lifeTitle": "我的生活",
+    "lifeAside": "研究之外，生活之中。",
+    "lifeCardTitle": "我女朋友的主页",
+    "lifeCardDescription": "这里也留一个位置，给生活中重要的人。",
+    "lifeVisit": "去她的主页看看"
   },
   "en": {
     "skip": "Skip to content",
@@ -167,6 +173,12 @@ window.I18N = {
     "copyFailed": "Please copy the email manually",
     "undergraduateSchool": "Xidian University",
     "undergraduateDegree": "Big Data Management and Application · Undergraduate",
-    "undergraduateDate": "Sep 2023 — present"
+    "undergraduateDate": "Sep 2023 — present",
+    "navLife": "Life",
+    "lifeTitle": "My life",
+    "lifeAside": "A little beyond research.",
+    "lifeCardTitle": "My girlfriend’s homepage",
+    "lifeCardDescription": "A place here for someone important in my life.",
+    "lifeVisit": "Visit her homepage"
   }
 };

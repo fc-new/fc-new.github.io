@@ -26,3 +26,15 @@
 .undergraduate-education .education-top h3{font-size:16px}
 .undergraduate-education .education-icon{width:34px;height:34px;font-size:18px}
 .hero-role{line-height:1.65}
+
+/* A personal link alongside academic work. */
+.life-section{border-top:1px solid var(--line)}
+.life-card{display:flex;align-items:center;gap:26px;padding:32px;background:#f4eee7;border:1px solid #e5d7c9;border-radius:8px;transition:background .2s,border-color .2s}
+.life-card:hover{background:#eee5db;border-color:#cbb69e}
+.life-heart{display:grid;place-items:center;width:64px;height:64px;flex-shrink:0;border:1px solid #e2cebb;border-radius:50%;color:#9b6d56;font-family:Georgia,serif;font-size:36px;line-height:1}
+.life-card-copy h3{font-family:var(--serif);font-size:23px;font-weight:500;line-height:1.4}
+.life-card-copy p{margin-top:8px;font-size:13px;color:var(--muted)}
+.life-card-link{display:flex;align-items:center;gap:16px;margin-left:auto;font-size:12px;color:#845f46;flex-shrink:0}
+.life-card-link>span:last-child{font-size:21px}
+@media(min-width:681px) and (max-width:1000px){.navigation{gap:16px}.nav-shell{gap:18px}}
+@media(max-width:680px){.life-card{padding:25px 22px;gap:17px;flex-wrap:wrap}.life-heart{width:47px;height:47px;font-size:29px}.life-card-copy{flex:1;min-width:0}.life-card-copy h3{font-size:20px}.life-card-copy p{font-size:12px}.life-card-link{width:100%;margin:5px 0 0;justify-content:space-between;border-top:1px solid #e5d7c9;padding-top:16px}}
