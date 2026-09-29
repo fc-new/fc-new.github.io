@@ -20,3 +20,9 @@
 /* Compact personal avatar in the navigation brand. */
 .brand-avatar{width:36px;height:36px;flex-shrink:0;object-fit:contain;background:#faf7ec;border:1px solid var(--line);border-radius:8px}
 @media(max-width:680px){.brand-avatar{width:32px;height:32px}}
+
+/* Separate incoming doctoral education from undergraduate achievements. */
+.undergraduate-education{padding-top:20px}
+.undergraduate-education .education-top h3{font-size:16px}
+.undergraduate-education .education-icon{width:34px;height:34px;font-size:18px}
+.hero-role{line-height:1.65}

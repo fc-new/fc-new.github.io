@@ -18,7 +18,7 @@
   function setLanguage(next){
     if(!strings[next])return;
     lang=next;document.documentElement.lang=lang==='zh'?'zh-CN':'en';
-    document.title=lang==='zh'?'付晨阳 · Chenyang Fu — LLM Agents & Efficient Fine-tuning':'Chenyang Fu · 付晨阳 — LLM Agents & Efficient Fine-tuning';
+    document.title=lang==='zh'?'付晨阳 · Chenyang Fu — LLM Agents · Agentic RL · RSI':'Chenyang Fu · 付晨阳 — LLM Agents · Agentic RL · RSI';
     const description=$('meta[name="description"]');if(description)description.content=strings[lang].heroDescription;
     const nav=$('#navigation');if(nav)nav.setAttribute('aria-label',lang==='zh'?'主导航':'Main navigation');
     $$('[data-i18n]').forEach(el=>{const key=el.dataset.i18n;if(strings[lang][key]!==undefined)el.innerHTML=strings[lang][key]});
