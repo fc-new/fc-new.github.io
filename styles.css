@@ -38,3 +38,7 @@
 .life-card-link>span:last-child{font-size:21px}
 @media(min-width:681px) and (max-width:1000px){.navigation{gap:16px}.nav-shell{gap:18px}}
 @media(max-width:680px){.life-card{padding:25px 22px;gap:17px;flex-wrap:wrap}.life-heart{width:47px;height:47px;font-size:29px}.life-card-copy{flex:1;min-width:0}.life-card-copy h3{font-size:20px}.life-card-copy p{font-size:12px}.life-card-link{width:100%;margin:5px 0 0;justify-content:space-between;border-top:1px solid #e5d7c9;padding-top:16px}}
+
+/* University emblems supplied by the site owner, shown without cropping. */
+.school-emblem{display:block;width:56px;height:56px;flex-shrink:0;object-fit:contain;mix-blend-mode:multiply}
+@media(max-width:820px){.school-emblem{width:48px;height:48px}}
