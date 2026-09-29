@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://fc-new.github.io/sitemap.xml
