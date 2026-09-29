@@ -18,6 +18,7 @@
 - **中英文字内容**：同步更新 `content.js` 的 `zh` / `en` 字典；`index.html` 中的中文是 JavaScript 不可用时的备用正文。
 - **论文状态**：在 `content.js` 及 `index.html` 中更新对应的状态。目前采用简历中的保守投稿表述。
 - **论文和项目链接**：编辑 `index.html` 中相应的链接。
+- **个人头像**：替换 `assets/chenyang-fu-avatar.png`；主页保留完整画面，不做圆形裁切。
 - **简历下载**：替换 `assets/chenyang-fu-cv.pdf`，保持文件名不变。
 - **配色和布局**：编辑 `styles.css`。
 
