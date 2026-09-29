@@ -16,3 +16,7 @@
 .avatar-art img{display:block;width:100%;height:auto;object-fit:contain}
 .portrait-card .visual-bottomline{gap:12px}
 @media(max-width:680px){.portrait-card{max-width:360px}.portrait-card .visual-topline{padding-bottom:15px}.avatar-art{margin-bottom:15px}}
+
+/* Compact personal avatar in the navigation brand. */
+.brand-avatar{width:36px;height:36px;flex-shrink:0;object-fit:contain;background:#faf7ec;border:1px solid var(--line);border-radius:8px}
+@media(max-width:680px){.brand-avatar{width:32px;height:32px}}
