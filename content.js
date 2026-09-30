@@ -24,7 +24,7 @@ window.I18N = {
     "scrollHint": "继续了解",
     "aboutTitle": "关于我",
     "aboutAside": "从问题出发，在实践中探索。",
-    "aboutLead": "你好，我是付晨阳，即将于 2027 年秋季入读上海交通大学博士项目。",
+    "aboutLead": "你好，我是付晨阳，即将于 2027 年秋季入读上海交通大学计算机学院博士项目，与北京中关村学院联合培养。",
     "aboutBody": "我的研究兴趣是 LLM Agents、Agentic RL 和 RSI（递归自我改进）。我关注智能体如何在复杂任务中高效推理与决策，如何通过交互和反馈学习，以及如何持续改进自身能力。此前，我参与了张宁豫老师指导的智能体研究，也在沈玉龙教授团队参与 CryptoLLM 的语料构建与后训练工作。",
     "school": "上海交通大学",
     "degree": "计算机学院博士",
@@ -92,7 +92,9 @@ window.I18N = {
     "lifeAside": "研究之外，生活之中。",
     "lifeCardTitle": "我女朋友的主页",
     "lifeCardDescription": "这里也留一个位置，给生活中重要的人。",
-    "lifeVisit": "去她的主页看看"
+    "lifeVisit": "去她的主页看看",
+    "jointSchool": "北京中关村学院",
+    "jointTraining": "博士联合培养"
   },
   "en": {
     "skip": "Skip to content",
@@ -111,7 +113,7 @@ window.I18N = {
     "scrollHint": "Discover more",
     "aboutTitle": "About me",
     "aboutAside": "Start with a problem. Learn by building.",
-    "aboutLead": "Hi, I’m Chenyang Fu, an incoming PhD student at Shanghai Jiao Tong University, starting in Fall 2027.",
+    "aboutLead": "Hi, I’m Chenyang Fu, an incoming PhD student in the School of Computer Science at Shanghai Jiao Tong University, starting in Fall 2027, with joint doctoral training at Zhongguancun Academy in Beijing.",
     "aboutBody": "My research interests are LLM Agents, Agentic RL, and RSI (Recursive Self-Improvement). I am interested in how agents reason and make decisions efficiently, learn through interaction and feedback, and continually improve their capabilities. Previously, I worked on agent research with Prof. Ningyu Zhang and contributed to corpus construction and post-training for CryptoLLM in Prof. Yulong Shen’s team.",
     "school": "Shanghai Jiao Tong University",
     "degree": "PhD · School of Computer Science",
@@ -179,6 +181,8 @@ window.I18N = {
     "lifeAside": "A little beyond research.",
     "lifeCardTitle": "My girlfriend’s homepage",
     "lifeCardDescription": "A place here for someone important in my life.",
-    "lifeVisit": "Visit her homepage"
+    "lifeVisit": "Visit her homepage",
+    "jointSchool": "Zhongguancun Academy, Beijing",
+    "jointTraining": "Joint doctoral training"
   }
 };
